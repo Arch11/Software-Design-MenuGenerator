@@ -1,0 +1,7 @@
+Instructions to run the program:
+
+1. Import the SD_Assignment1 project into the Eclipse IDE, 
+2. add json-simple.jar into the project as an external archive
+3. build the project 
+4. run it from the MenuGenerator.
+5. the outputfile will be generated and saved in the SD_Assignment1 folder.
